@@ -21,7 +21,7 @@ A high-fidelity Flappy Bird clone built with pure HTML5, CSS3, and JavaScript. T
 
 ## 📸 Gallery & Media
 To see the game in action and view high-resolution screenshots, check out our media page:
-👉 **[View Gameplay Images](./images.md)**
+👉 **[View Gameplay Images](./images)**
 
 ---
 Developed by **Aritraa Chakraborty**
