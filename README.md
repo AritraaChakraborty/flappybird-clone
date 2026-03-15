@@ -20,8 +20,8 @@ A high-fidelity Flappy Bird clone built with pure HTML5, CSS3, and JavaScript. T
 4. **Desktop:** Click the mouse to flap.
 
 ## 📸 Gallery & Media
-To see the game in action and view high-resolution screenshots, check out our media page:
-👉 **[View Gameplay Images](./images)**
+To see the game in action and view high-resolution screenshots, check out our media page :
+ **[View Gameplay Images](./images)**
 
 ---
 Developed by **Aritraa Chakraborty**
