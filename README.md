@@ -15,7 +15,7 @@ A high-fidelity Flappy Bird clone built with pure HTML5, CSS3, and JavaScript. T
 
 ## 🕹️ How to Play
 1. Clone this repository.
-2. Open `index.html` in any web browser.
+2. Open `main.html` in any web browser.
 3. **Mobile:** Tap the screen to flap.
 4. **Desktop:** Click the mouse to flap.
 
